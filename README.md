@@ -2,4 +2,4 @@
 
 From Colt Steele's [Modern React Bootcamp](https://www.udemy.com/modern-react-bootcamp/).
 
-![alt text](http://julienorcross.github.com/lights-out/lightsout.png)
+![alt text](https://github.com/julienorcross/lights-out/blob/master/lightsout.png)
